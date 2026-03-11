@@ -3,8 +3,6 @@ Dies ist eine kleine Uhr-Anwendung, die die aktuelle Zeit anzeigt. Zeigt Grundfu
 
 Anzeige der aktuellen Zeit
 
-Optional: Datum, Sekundenanzeige
-
 Einfache Erweiterung möglich (Wecker, Stoppuhr)
 
 Programmiersprache: Python 
